@@ -1,16 +1,31 @@
-# sudoku_solver
+Description: Sudoku Solver App
 
-A new Flutter project.
+The Sudoku Solver App is a streamlined and efficient Flutter application designed to solve Sudoku puzzles effortlessly. Whether you prefer manual input or capturing a puzzle from your surroundings, this app caters to all preferences.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+  Manual Input:
+  Enter Sudoku puzzles manually with an intuitive interface.
 
-A few resources to get you started if this is your first Flutter project:
+  Camera Capture:
+  Capture Sudoku puzzles directly from your environment using the device camera.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  Gallery Selection:
+  Choose existing images from your gallery as the Sudoku puzzle source.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Error Detection:
+  Advanced algorithms for real-time error detection in manually entered or captured puzzles.
+
+  Sudoku Solving:
+  Utilizes multiple solving algorithms to efficiently solve Sudoku puzzles.
+
+How to Use:
+
+  Manual Input:
+  Tap the cells to enter values manually.
+
+  Camera Capture:
+  Point the camera at a Sudoku puzzle, and the app will digitize the grid.
+
+  Gallery Selection:
+  Choose the "Select from Gallery" option and pick an image with a Sudoku puzzle.
